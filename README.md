@@ -13,7 +13,7 @@ iOS 12.0 or later
 ## Installation
 
 1. Clone the repository:
-git clone 'https://github.com/IPH-Technologies-Pvt-Ltd/ImageColourPicker.git'
+git clone https://github.com/Ajay312kumar/ImageColourPicker-iOS-Swift.git
 2. Navigate to the project directory:
 cd ImageColourPicker
 3. Open the Xcode project file:
