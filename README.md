@@ -37,4 +37,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) fil
 
 
 ## GIF
-![Simulator Screen Recording - iPhone 14 Pro Max - 2024-02-17 at 11 25 48](https://github.com/Ajay312kumar/ImageColourPicker-iOS-Swift/assets/99198303/472c7180-fe61-4ece-a706-f8d1f7591e30)
+![Simulator Screen Recording - iPhone 14 Pro Max - 2024-01-09 at 16 43 05](https://github.com/IPH-Technologies-Pvt-Ltd/ImageColourPicker/assets/124868129/7c050824-8a06-4861-8e9f-aff95d9567cf)
